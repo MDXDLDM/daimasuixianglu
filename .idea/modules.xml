@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daimasuixianglu.iml" filepath="$PROJECT_DIR$/daimasuixianglu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greedy/greedy.iml" filepath="$PROJECT_DIR$/greedy/greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashbiao/hashbiao.iml" filepath="$PROJECT_DIR$/hashbiao/hashbiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huisu/huisu.iml" filepath="$PROJECT_DIR$/huisu/huisu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianbiao/lianbiao.iml" filepath="$PROJECT_DIR$/lianbiao/lianbiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuzu/shuzu.iml" filepath="$PROJECT_DIR$/shuzu/shuzu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulun/tulun.iml" filepath="$PROJECT_DIR$/tulun/tulun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhanheduilie/zhanheduilie.iml" filepath="$PROJECT_DIR$/zhanheduilie/zhanheduilie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zifuchuan/zifuchuan.iml" filepath="$PROJECT_DIR$/zifuchuan/zifuchuan.iml" />
+    </modules>
+  </component>
+</project>
